@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SiriusTestApp</string>
+    <string name="title_hot">Hot</string>
+    <string name="title_best">Best</string>
+    <string name="title_fresh">Fresh</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="no_posts">No posts loaded</string>
+    <string name="post_failed">Failed to download post</string>
+</resources>

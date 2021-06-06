@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SiriusTestApp</string>
+    <string name="title_hot">Горячее</string>
+    <string name="title_best">Лучшее</string>
+    <string name="title_fresh">Свежее</string>
+    <string name="next">След.</string>
+    <string name="prev">Пред.</string>
+    <string name="no_posts">Нет загруженных постов</string>
+    <string name="post_failed">Не удалось загрузить пост</string>
+</resources>
